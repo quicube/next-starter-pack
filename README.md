@@ -2,3 +2,4 @@
 
 yarn install
 
+yarn dev
